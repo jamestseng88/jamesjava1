@@ -25,7 +25,6 @@ public class PokerGame {
 			} else if (f == 4) {
 				System.out.println("H");
 			}
-
 		}
 	}
 }
